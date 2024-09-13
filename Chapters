@@ -1,0 +1,17 @@
+{
+  "title": "<Convict Colosseum>",
+  "description": "<manga description>",
+  "artist": "<u/pinakanaka>",
+  "author": "<u/pinakanaka>",
+  "cover": "<https://i.imgur.com/xNmulxm.png>",
+  "chapters": {
+    "<1>": {
+      "title": "<Round 1 Match 1>",
+      "volume": "<1>",
+      "groups": {
+        "<u/pinakanaka>": "/proxy/api/imgur/chapter/<c7z0rjp>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
